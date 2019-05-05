@@ -65,7 +65,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: blue;
+  color: #3498DB;
   background: #ff0;
 }
 small {
@@ -215,7 +215,7 @@ th {
   }
   pre,
   blockquote {
-    border: 1px solid #999;
+    border: 1px solid #000000;
 
     page-break-inside: avoid;
   }
