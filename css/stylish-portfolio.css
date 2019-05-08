@@ -220,11 +220,12 @@ hr.small {
     margin: 10px;
 }
 
-/* Map */
+/* Map 
 
 .map {
     height: 500px;
 }
+*/
 
 @media(max-width:768px) {
     .map {
