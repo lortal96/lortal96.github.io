@@ -27,6 +27,10 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+    top:100px; 
+        left:100px; 
+        width:150px; 
+        height:150px"
 }
 
 /* Custom Button Styles */
