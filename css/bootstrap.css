@@ -249,6 +249,11 @@ th {
   .navbar {
     display: none;
   }
+  }
+
+.clearfix {
+  overflow: auto;
+}
   .btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
