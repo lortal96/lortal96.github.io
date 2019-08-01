@@ -380,3 +380,7 @@ a:hover, a:focus, a:active {
 	width: 100%;
 	height: 100%;
 }
+
+#lanterna {
+	margin-bottom: 60px;
+}
